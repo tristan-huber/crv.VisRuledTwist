@@ -11,8 +11,7 @@
     },
     {
       "name": "NumRulings",
-      "ioValue": 50,
-      "currentEquation": "50"
+      "ioValue": 50
     },
     {
       "name": "RulingAxis(U,V,auto)",
@@ -64,23 +63,23 @@
     },
     {
       "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.15384615384615385,
+      "x": 0.0231,
+      "y": 0.14,
       "uniqueID": "id-8899",
       "name": "Face",
       "type": "geometry"
     },
     {
       "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.36904761904761907,
+      "x": 0.0231,
+      "y": 0.22400000000000003,
       "uniqueID": "id-8902",
       "name": "NumRulings"
     },
     {
       "atomType": "Input",
-      "x": 0.025384615384615384,
-      "y": 0.5327380952380952,
+      "x": 0.0231,
+      "y": 0.30800000000000005,
       "uniqueID": "id-8905",
       "name": "RulingAxis(U,V,auto)",
       "type": "string"
